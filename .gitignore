@@ -1,0 +1,10 @@
+gauth_app/migrations
+gauth_app/__pycache__/
+
+
+google_auth/__pycache__/
+google_auth/env.py
+
+db.sqlite3
+
+gauth/
