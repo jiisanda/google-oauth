@@ -148,4 +148,4 @@ SOCIALACCOUNT_PROVIDERS = {
     },
 }
 
-
+STATIC_URL = 'static/'
